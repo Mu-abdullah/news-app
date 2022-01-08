@@ -6,6 +6,8 @@ import 'package:news_app/shared/cubit/cubit.dart';
 import 'package:news_app/shared/cubit/new_cubit.dart';
 import 'package:news_app/shared/cubit/state.dart';
 
+//New Change
+
 class NewsLayouts extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
